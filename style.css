@@ -13,11 +13,6 @@ header {
   border-radius: 10px;
 }
 
-img {
-  border-radius: 3%;
-  box-shadow: 0 0 10px gray;
-}
-
 iframe {
   margin-top: 20px;
   border-radius: 10px;
